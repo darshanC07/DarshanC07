@@ -1,8 +1,9 @@
-# 💫 About Me:
-Hello coders! My name is Darshan Choudhary, and I am currently<br> a student at Government Polytechnic Pune. I have a deep enthusiasm<br> for new technology and a strong passion for building innovative <br>projects. My interests lie in exploring the latest advancements in <br>the tech world and applying them creatively to solve real-world<br> problems. I am always eager to learn, experiment, and collaborate <br>with others to bring fresh ideas to life. Let's catch <br>up together and build something new and exciting!
+# Hellooo:
+Hello folks! I'm Darshan Choudhary, SY Diploma in CS 
 
 
-## 🌐 Socials:
+## How can you connnect me?
+<a href="https://www.linkedin.com/in/darshanc07/"><img src="https://github.com/user-attachments/assets/8079b2ad-baa4-415f-995c-3d418f7bbfa2" alt="LinkedIn" height=40 width=40/></a> - /in/darshanC07
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darshan_choudhary_02) 
 
 # 💻 Tech Stack:
