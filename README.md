@@ -1,4 +1,4 @@
-Hello developers! It's me, Darshan Choudhary, a SY CS student. I love to build cool stuff that can solve problems. I have a keen interest in robotics, IoT, and software, and I always think about building something that combines all of these. I have built a bunch of projects. Recently, I also started studying ML...so more projects are yet to be added. <br>
+Hello developers! My name is Darshan Choudhary. I am currently pursuing a Diploma in CS. I love to keep building cool stuff that can solve problems. I have a keen interest in robotics, IoT, and software, and I always think about building something that combines all of these. I have built numerous projects, through which I gained experience in full-stack development, Designing, Problem solving. Recently, I also started studying ML...so more projects are yet to be added. <br>
 Always learning!!!
 
 
@@ -10,6 +10,8 @@ Always learning!!!
   <a href="https://discordapp.com/users/darshan040800" alt="discord"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/light/discord.svg" width="40" height="35" alt="discord logo"  /></a>
 <!--   <a href="https://hackclub.slack.com/team/U078CB5JL3Y" alt="slack"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="40" alt="slack logo"  /></a> -->
 </div>
+
+
   
 
 # 💻 Tech Stack:
